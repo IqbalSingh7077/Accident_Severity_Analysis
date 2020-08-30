@@ -1,0 +1,8 @@
+Observations in the dataset 
+The Collisions dataset includes records of collisions happened on road from 2004 to Present. The dataset contains 194673 rows and 38 columns, each row is a record of accident, and each column is an attribute.
+
+1.The first column "SEVERITYCODE" is the labeled data, which describes the fatality of an accident. . The remaining 37 columns have different types of attributes.Some or all can be used to train the model.
+2.There are missing values. such as in "INTKEY" etc.
+3.Data type of some attributes are not clear, such as "EXCEPTRSNCODE" etc.
+4.The data has unbalanced labels for column "SEVERITYCODE", There are 136485 observations of label1 but only 58188 observations of label2.
+5.Most of the feautres in the dataset will be cleaned in the pre-processing phase as some of the attributes are not useful in building a machine learning model.
