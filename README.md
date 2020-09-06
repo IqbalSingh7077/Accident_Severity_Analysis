@@ -13,7 +13,7 @@ These analyses can be quite beneficial to the following-
 3. Government for making useful policies to reduce chances of accidents.
 
 # Data sources
-For the purpose analysis, Data used in this **"IBM Data Science Professional Certificate** capstone project was provided by IBM.
+For the purpose analysis, Data used in this **"IBM Data Science Professional Certificate"** capstone project was provided by IBM.
 
 # Data Cleaning
 There were several problems with this data that needed to be fixed.
