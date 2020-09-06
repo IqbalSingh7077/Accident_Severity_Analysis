@@ -25,7 +25,7 @@ There were several problems with this data that needed to be fixed.
 • There are some inconsistent values in ‘UNDERINFL’.
 
 # Modeling
-The problem at hand was of classification, hence We chose two famous classification algorithm’s, Logistic Regression and Decision tree to make a ML model.
+The problem at hand was of classification, hence I chose two famous classification algorithm’s, Logistic Regression and Decision tree to make a ML model.
 
 # Evaluation
 Both models performed well with over 70% accuracy, but Decision Tree was better among both with 72.8% accuracy.
